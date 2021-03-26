@@ -76,6 +76,7 @@ export default class Demo extends Component {
 
     render() {
         const {currentDate, data, addedAppointment, appointmentChanges, editingAppointmentId} = this.state;
+        console.log(data);
         return (
             <Paper>
                 <Scheduler data={data} height={1000}>
