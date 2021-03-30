@@ -17,4 +17,10 @@ export const plans = [
         startDate: '2021-03-26T12:15',
         endDate: '2021-03-26T13:30',
     },
+    {
+        title: '내일도 화이팅',
+        priorityId: 2,
+        startDate: '2021-03-30T12:15',
+        endDate: '2021-03-30T13:30',
+    },
 ]
