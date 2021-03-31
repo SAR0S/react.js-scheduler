@@ -23,4 +23,10 @@ export const plans = [
         startDate: '2021-03-30T12:15',
         endDate: '2021-03-30T13:30',
     },
+    {
+        title: '이틀만 지나면 주말 굿',
+        priorityId: 2,
+        startDate: '2021-03-30T12:15',
+        endDate: '2021-03-30T13:30',
+    },
 ]
