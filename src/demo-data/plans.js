@@ -35,4 +35,10 @@ export const plans = [
         startDate: '2021-04-01T12:15',
         endDate: '2021-04-01T13:30',
     },
+    {
+        title: '내일부터는 가짜',
+        priorityId: 2,
+        startDate: '2021-04-02T12:15',
+        endDate: '2021-04-02T13:30',
+    },
 ]
