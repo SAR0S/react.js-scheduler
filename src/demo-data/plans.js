@@ -41,4 +41,10 @@ export const plans = [
         startDate: '2021-04-02T12:15',
         endDate: '2021-04-02T13:30',
     },
+    {
+        title: '주말 순삭',
+        priorityId: 2,
+        startDate: '2021-04-03T12:15',
+        endDate: '2021-04-03T13:30',
+    },
 ]
