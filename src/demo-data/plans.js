@@ -47,4 +47,10 @@ export const plans = [
         startDate: '2021-04-03T12:15',
         endDate: '2021-04-03T13:30',
     },
+    {
+        title: '순살 치킨',
+        priorityId: 2,
+        startDate: '2021-04-04T12:15',
+        endDate: '2021-04-04T13:30',
+    },
 ]
