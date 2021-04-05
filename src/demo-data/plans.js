@@ -53,4 +53,10 @@ export const plans = [
         startDate: '2021-04-04T12:15',
         endDate: '2021-04-04T13:30',
     },
+    {
+        title: '수고했어 오늘도',
+        priorityId: 2,
+        startDate: '2021-04-05T12:15',
+        endDate: '2021-04-05T13:30',
+    },
 ]
