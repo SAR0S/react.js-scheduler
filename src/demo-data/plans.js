@@ -60,9 +60,21 @@ export const plans = [
         endDate: '2021-04-05T13:30',
     },
     {
-        title: '잘하고싶다',
+        title: '뭐든지 잘하고싶다',
         priorityId: 2,
         startDate: '2021-04-06T12:15',
         endDate: '2021-04-06T13:30',
+    },
+    {
+        title: '에헤라디여~',
+        priorityId: 2,
+        startDate: '2021-04-07T12:15',
+        endDate: '2021-04-07T13:30',
+    },
+    {
+        title: '여가 먼 일기장도 아이고..',
+        priorityId: 2,
+        startDate: '2021-04-07T12:15',
+        endDate: '2021-04-07T13:30',
     },
 ]
