@@ -77,4 +77,10 @@ export const plans = [
         startDate: '2021-04-07T12:15',
         endDate: '2021-04-07T13:30',
     },
+    {
+        title: '보드타러 가자!!!!!!!!',
+        priorityId: 2,
+        startDate: '2021-04-09T12:15',
+        endDate: '2021-04-09T13:30',
+    },
 ]
