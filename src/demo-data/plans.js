@@ -83,4 +83,10 @@ export const plans = [
         startDate: '2021-04-09T12:15',
         endDate: '2021-04-09T13:30',
     },
+    {
+        title: '토요일은 즐거워',
+        priorityId: 2,
+        startDate: '2021-04-10T12:15',
+        endDate: '2021-04-10T13:30',
+    },
 ]
